@@ -1,4 +1,4 @@
-### Hey there, I'm Akshat Srivastava. 👋 
+## Hey there, I'm Akshat Srivastava. 👋 
 I am a <b>front-end web developer</b> with designing skills  🖥️
 <hr>
 I am based in <b>Prayagraj, India. </b>
