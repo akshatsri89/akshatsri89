@@ -12,7 +12,8 @@ I always try to grow and learn something new..  😋    I'm a quick learner..  �
 
 - 🔭 I’m currently working on my new startup that is <b><big> FruitChat </big></b> a light and easy instant messaging application..
 
-![2_65](https://user-images.githubusercontent.com/82876692/123443466-8d572580-d5f3-11eb-8dcf-cb432e05c1f6.png)
+![2_65_1_70](https://user-images.githubusercontent.com/82876692/123443726-c98a8600-d5f3-11eb-9920-d28db3aad1d4.png)
+
 
 
 ## What I had developed earlier  😍😍
