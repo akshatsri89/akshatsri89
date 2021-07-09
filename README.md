@@ -27,7 +27,6 @@ I always try to grow and learn something new..  ðŸ˜‹    I'm a quick learner..  ð
 
 ![cropped-screenshot-289-1-1](https://user-images.githubusercontent.com/82876692/122687606-f544ef00-d234-11eb-89f5-a2825fef0e50.png)
 <h4>- A free and beautiful Stock photos website.. </h4>
-<a href="www.colorshotorg.wordpress.com> www.colorshot.com </a>
 
 # What I,m focusing on -
 
