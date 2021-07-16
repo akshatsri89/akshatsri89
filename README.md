@@ -9,14 +9,12 @@ Since 2019 I had been working on web-development technologies and created many m
 I always try to grow and learn something new..  😋    I'm a quick learner..  🥰🥰
 
 
-
-- 🔭 I’m currently working on my new startup that is <b><big> FruitChat </big></b> a light and easy instant messaging application..
-
 ## Frameworks i am skilled in :
 
 ![html](https://user-images.githubusercontent.com/82876692/125975665-35765e1e-8361-4b04-a2b1-2da2ec8ffdfe.png)   ![css](https://user-images.githubusercontent.com/82876692/125975681-8c47562f-a74b-4790-b2e0-7bea1fc7cb11.png)   ![js](https://user-images.githubusercontent.com/82876692/125975703-dde01d97-e196-441d-9bed-10b0afa513f6.png)   ![tail](https://user-images.githubusercontent.com/82876692/125975729-a8fb85fc-c4ca-476c-859b-299cf15eca71.png)   ![react](https://user-images.githubusercontent.com/82876692/125975742-d5e9fc27-f4a6-4e6a-b3a5-667cbfcd9d00.png)   ![boot](https://user-images.githubusercontent.com/82876692/125975846-506d9b71-f454-4e36-ac66-d0b24487ee60.jpg)   ![word](https://user-images.githubusercontent.com/82876692/125975889-080ad153-9e31-405a-95b1-e60198d7a303.png)   ![and](https://user-images.githubusercontent.com/82876692/125975935-868169f2-68f6-4e44-808b-d3fbb1933325.jpg)
 
 
+####  🔭 I’m currently working on my new startup that is <b><big> FruitChat </big></b> a light and easy instant messaging application..
 
 
 
