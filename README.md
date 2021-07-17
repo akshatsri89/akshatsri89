@@ -1,13 +1,26 @@
-## Hey there, I'm Akshat Srivastava. 👋 
-I am a <b>front-end web developer</b> with designing skills  🖥️
+## Hey there, <b>I'm Akshat Srivastava.</b> 👋 
 <hr>
-I am based in <b>Prayagraj, India. </b>
-Since 2019 I had been working on web-development technologies and created many modern and user friendly interfaces and websites..
+
+### I'm a Coder with the ❤️ of a Writer..
+- <b bgcolor="yellow"> Front-end web developer </b>
+- <b> UI designer</b>
+- <b> Python Programmer </b>
+
+- <b> Android App developer </b>
+<hr>
+<i> I am based in <b>Prayagraj, India. </b>
+Since 2019 I had been working on web-development technologies and created many modern and user friendly interfaces and websites..I have also develop some good android applications as well..</i>
 
 
 
-I always try to grow and learn something new..  😋    I'm a quick learner..  🥰🥰
+<i>I always try to grow and learn something new..  😋    I'm a quick learner..  🥰🥰
+</i>
+<hr>
 
+## Find me elsewhere..
+
+- 📞  <b> +91 8896537822 </b>
+-  📧    <b>   akshatsri89@gmail.com </b>
 
 ## Frameworks i am skilled in :
 
@@ -23,7 +36,7 @@ I always try to grow and learn something new..  😋    I'm a quick learner..  �
 
 
 
-![2_65_1_70](https://user-images.githubusercontent.com/82876692/123443726-c98a8600-d5f3-11eb-9920-d28db3aad1d4.png)
+![2_70x70](https://user-images.githubusercontent.com/82876692/126030663-682e78a4-3ee7-455d-96d7-5d6a1f9c6771.png)
 
 
 
@@ -38,15 +51,20 @@ I always try to grow and learn something new..  😋    I'm a quick learner..  �
 
 ![cropped-screenshot-289-1-1](https://user-images.githubusercontent.com/82876692/122687606-f544ef00-d234-11eb-89f5-a2825fef0e50.png)
 <h4>- A free and beautiful Stock photos website.. </h4>
+<h4> VISIT WEBSITE : https://colorshotorg.wordpress.com/ </h4>
 
-# What I,m focusing on -
+- <h2> <b> Colorshot Android and iOS App.</b></h2>
+![screenshot-289-1_70x70](https://user-images.githubusercontent.com/82876692/126030721-98f23296-e81f-4a7e-a761-969319bae35b.png)   ![download_1_120x60](https://user-images.githubusercontent.com/82876692/126030952-edb539ce-7244-4179-b7c6-5b9129e0f8d3.png)   ![download_1_1_120x60](https://user-images.githubusercontent.com/82876692/126030955-ff7ff0a6-e2fd-47be-b165-76b0ee5d850f.png)
 
-Currently I am improving my skills in python as well as Flutter..  😉😉
 
-## Find me elsewhere..
 
-- 📞  <b> +91 8896537822 </b>
--  📧    <b>   akshatsri89@gmail.com </b>
+<h4> <U>ANDROID DOWNLOAD LINK </U> - https://www.mediafire.com/file/jfq5g4z6sivfi4r/com.colorshot_%25282%2529.apk/file </h4>
+<h4> <U>iOS DOWNLOAD LINK </U> - https://www.mediafire.com/file/ozz4vysu88l2z0e/com.colorshot.ipa/file </h4>
+
+## What I,m focusing on -
+
+<b><i> Currently I am improving my skills in python as well as Flutter..  😉😉</i> </b>
+
 
 
 
