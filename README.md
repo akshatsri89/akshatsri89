@@ -17,17 +17,13 @@ Since 2019 I had been working on web-development technologies and created many m
 </i>
 <hr>
 
-## Find me elsewhere..
-
-- 📞  <b> +91 8896537822 </b>
--  📧    <b>   akshatsri89@gmail.com </b>
 
 ## Frameworks i am skilled in :
 
 ![html](https://user-images.githubusercontent.com/82876692/125975665-35765e1e-8361-4b04-a2b1-2da2ec8ffdfe.png)   ![css](https://user-images.githubusercontent.com/82876692/125975681-8c47562f-a74b-4790-b2e0-7bea1fc7cb11.png)   ![js](https://user-images.githubusercontent.com/82876692/125975703-dde01d97-e196-441d-9bed-10b0afa513f6.png)   ![tail](https://user-images.githubusercontent.com/82876692/125975729-a8fb85fc-c4ca-476c-859b-299cf15eca71.png)   ![react](https://user-images.githubusercontent.com/82876692/125975742-d5e9fc27-f4a6-4e6a-b3a5-667cbfcd9d00.png)   ![boot](https://user-images.githubusercontent.com/82876692/125975846-506d9b71-f454-4e36-ac66-d0b24487ee60.jpg)   ![word](https://user-images.githubusercontent.com/82876692/125975889-080ad153-9e31-405a-95b1-e60198d7a303.png)   ![and](https://user-images.githubusercontent.com/82876692/125975935-868169f2-68f6-4e44-808b-d3fbb1933325.jpg)
 
 
-####  🔭 I’m currently working on my new startup that is <b><big> FruitChat </big></b> a light and easy instant messaging application..
+###  🔭 I’m currently working on my new startup that is <b><big> FruitChat </big></b> a light and easy instant messaging application..
 
 
 
@@ -37,6 +33,12 @@ Since 2019 I had been working on web-development technologies and created many m
 
 
 ![2_70x70](https://user-images.githubusercontent.com/82876692/126030663-682e78a4-3ee7-455d-96d7-5d6a1f9c6771.png)
+
+
+## Technologies I'm skilled in :
+
+![download_3_60x60](https://user-images.githubusercontent.com/82876692/126031689-cae258b1-85da-4ed5-8595-fb0746e6342f.png)  ![download_2_1_60x60](https://user-images.githubusercontent.com/82876692/126031711-602cd51d-7646-4a54-b3b5-0df6aa6f08b4.png)  ![download_6_60x60](https://user-images.githubusercontent.com/82876692/126031751-8666181f-c9a1-4f8f-92f0-63d949fa864b.png)   ![download_8_60x60](https://user-images.githubusercontent.com/82876692/126031772-2980cfea-2c63-4e38-86fb-c54c6682c2c4.png)   ![download_5_60x60](https://user-images.githubusercontent.com/82876692/126031798-7e15db4c-204c-4826-9277-a15c433f51d0.png)   ![download_7_60x60](https://user-images.githubusercontent.com/82876692/126031816-dd4ba1b9-abaf-4550-989d-3037b6d06c5f.png)   ![download_4_60x60](https://user-images.githubusercontent.com/82876692/126031831-e92830e1-3e9b-4105-bbb5-02ac9a8ec955.png)
+
 
 
 
@@ -64,7 +66,19 @@ Since 2019 I had been working on web-development technologies and created many m
 ## What I,m focusing on -
 
 <b><i> Currently I am improving my skills in python as well as Flutter..  😉😉</i> </b>
+
 <hr>
+
+## Find me elsewhere..
+
+- 📞  <b> +91 8896537822 </b>
+-  📧    <b>   akshatsri89@gmail.com </b>
+
+
+
+
+
+
 
 
 
